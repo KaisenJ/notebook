@@ -281,3 +281,6 @@ success.jsp
 
 ![SpringMVC工作流程](../../img/SpringMVC的运行流程图.jpg)
 
+###### SpringMVC工作原理
+
+相关博客：https://www.cnblogs.com/fengquan-blog/p/11161084.html
